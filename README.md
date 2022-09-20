@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 手机：15130939253
 - Email：704994183@qq.com
-- QQ/微信号：rong15130939253
+- 微信号：marr2002_
 
 # 个人信息
 
@@ -32,7 +32,11 @@ Here are some ideas to get you started:
  - 期望薪资：面议
  - 期望城市：北京，天津
 
-    
+# 个人奖项
+
+ - CCF-码加加全国算法精英大赛全国二等奖
+ - 中国大学生计算机设计大赛省级三等奖
+ - 获得一项软件著作权《宠物寄代养服务平台V1.0》
     
 # 技能清单
 以下均为我熟练使用的技能
@@ -47,14 +51,8 @@ Here are some ideas to get you started:
 
 ### Get in touch
 
-[![lilianlee.me](https://img.shields.io/badge/lilianlee.me-orange)](https://lilianlee.me/)
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/lilin90)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lilian-lee-54305777/)
-[![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter)](https://twitter.com/lilianlee90/)
-[![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)](https://www.instagram.com/lilianlee.me/)
-[![Pixabay](https://img.shields.io/badge/Pixabay-white?logo=pixabay)](https://pixabay.com/zh/users/lilian90-1322641/)
-
-      
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/Fairy253)
+     
 ---      
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
